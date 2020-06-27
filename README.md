@@ -1,5 +1,11 @@
 # -House-Prices-Advanced-Regression-Techniques
-Given a set of parameters of a House, we need to predict the sales price.
+Given a set of parameters of a House, we need to predict the sales price. Feature enigneering has been done and a number of ordinal feature has been converted into numerical value(in ordinal order). The categorical features which were nominal in nature converted to number by one hot encoding.
+
+Then the features were trained using GBR,DTR,SVR,RFR giving a good result.
+
+
+
+
 
 Competition Description
 
